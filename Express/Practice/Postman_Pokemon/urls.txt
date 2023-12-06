@@ -1,0 +1,6 @@
+
+https://pokeapi.co/api/v2/pokemon/venusaur
+https://pokeapi.co/api/v2/pokemon/pidgeot
+https://pokeapi.co/api/v2/pokemon/400
+https://pokeapi.co/api/v2/pokemon/100
+https://pokeapi.co/api/v2/pokemon/50
